@@ -10,6 +10,8 @@ dependencies:
   - jupyterlab_code_formatter
   - mypy
   - pandas>=1.4
+  - ffmpeg-python
+  - pillow
   - pip>=22
   - pre-commit
   - pip:

@@ -11,6 +11,9 @@ dependencies:
   - mypy
   - nbqa
   - pandas>=1.4
+  - ffmpeg
+  - libogg
+  - libvorbis
   - ffmpeg-python
   - pillow
   - pip>=22

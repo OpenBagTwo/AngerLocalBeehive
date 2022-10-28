@@ -11,7 +11,6 @@ dependencies:
   - mypy
   - nbqa
   - pandas>=1.4
-  - ffmpeg-python
   - pillow
   - pip>=22
   - pre-commit
@@ -19,3 +18,4 @@ dependencies:
     - black-nb
     - mutf8
     - nbt==1.5.1
+    - ffmpeg-python  # conda dep will install conda ffmpeg which we don't want

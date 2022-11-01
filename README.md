@@ -47,7 +47,7 @@ the easiest way to run the code in this repo will be to:
 
 This is my own personal notebook repository. If you have code feedback or suggestions,
 I welcome them (feel free to [open an issue](../../issues/new)), but otherwise
-I advise creating your own [forking](../../fork).
+I advise creating your own [fork](../../fork).
 
 ## License
 

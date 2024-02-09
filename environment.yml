@@ -19,5 +19,5 @@ dependencies:
   - pip:
     - black-nb
     - mutf8
-    - nbt==1.5.1
+    - git+https://github.com/OpenBagTwo/NBT.git
     - ffmpeg-python  # conda dep will install conda ffmpeg which we don't want

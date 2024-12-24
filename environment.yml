@@ -13,6 +13,7 @@ dependencies:
   - nbqa
   - pandas>=1.4
   - pillow
+  - scipy
   - pip>=22
   - pre-commit
   - git

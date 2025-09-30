@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/psf/black
-  rev: 25.1.0
+  rev: 25.9.0
   hooks:
   - id: black
   - id: black-jupyter
@@ -10,3 +10,4 @@ repos:
   - id: nbqa-isort
   - id: nbqa-mypy
     args: [--ignore-missing-imports]
+    additional_dependencies: [mypy, types-requests]
